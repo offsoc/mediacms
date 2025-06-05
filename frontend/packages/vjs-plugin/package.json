@@ -43,13 +43,13 @@
     "global": "^4.4.0",
     "minami": "^1.2.3",
     "node-sass": "^6.0.0",
-    "postcss": "^8.3.2",
+    "postcss": "^8.5.4",
     "rimraf": "^3.0.2",
-    "rollup": "^2.51.2",
+    "rollup": "^2.79.2",
     "rollup-plugin-babel": "^4.3.3",
     "rollup-plugin-cleanup": "^3.2.1",
     "rollup-plugin-gzip": "^2.5.0",
-    "rollup-plugin-postcss": "^4.0.0",
+    "rollup-plugin-postcss": "^4.0.2",
     "rollup-plugin-visualizer": "^5.5.0"
   }
 }
